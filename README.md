@@ -57,6 +57,8 @@ Atualmente, busco:
 ---
 
 ## Contato
-- GitHub: [github.com/Ryan-Alv](https://github.com/Ryan-Alv)
+- LinkedIn: [linkedin.com/in/ryan-alves-dev-ti](https://www.linkedin.com/in/ryan-alves-dev-ti/)
+- Email: conta.ryan.alves@gmail.com
+- Instagram: [@ryan_alves_z](https://www.instagram.com/ryan_alves_z?igsh=emFscDkycHF1YzA3)
 - GitHub: [github.com/Ryan-Alv](https://github.com/Ryan-Alv)
 
