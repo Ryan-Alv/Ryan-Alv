@@ -16,15 +16,17 @@ Gosto de entender como as coisas funcionam por trás e estou sempre buscando evo
 ---
 
 ## 🧠 Tecnologias & Conhecimentos
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,linux,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,linux,mysql,git,github" />
 </p>
 
-- **Linguagens:** Python, JavaScript  
-- **Programação:** POO, Estrutura de Dados, Programação Web  
+- **Programação:** Python, JavaScript, Programação Orientada a Objetos, Estrutura de Dados  
+- **Web:** Programação para Web, Web Design  
 - **Software:** Engenharia de Software, Qualidade de Software  
-- **Sistemas:** Redes, Sistemas Operacionais, Segurança da Informação  
-- **Dados & Gestão:** Banco de Dados, Gestão de Projetos, Empreendedorismo  
+- **Sistemas & Redes:** Sistemas Operacionais, Redes de Computadores, Segurança da Informação  
+- **Dados & Gestão:** Banco de Dados, Gestão de Projetos, Empreendedorismo, Introdução à Computação
+
 
 ---
 
