@@ -51,7 +51,7 @@ Busco oportunidades de **estágio ou posição júnior** na área de tecnologia,
   <a href="https://www.linkedin.com/in/ryan-alves-dev-ti/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:conta.ryan.alves@gmail.com">
+  <a href="conta.ryan.alves@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/ryan_alves_z" target="_blank">
