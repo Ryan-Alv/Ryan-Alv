@@ -1,16 +1,62 @@
-## Hi there 👋
+# Olá, eu sou o Ryan!
 
-<!--
-**Ryan-Alv/Ryan-Alv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Ciência da Computação** na **UNIP – Brasília**  
+Técnico em **Informática** pelo **Instituto Federal de Brasília (IFB)**  
+20 anos | Brasília - DF  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+Sou uma pessoa com **extrema facilidade em aprender e me adaptar**, tenho **boa comunicação** e sou **muito determinado**.  
+Gosto de entender como as coisas funcionam por trás e estou sempre buscando evoluir como desenvolvedor e profissional de tecnologia.
+
+---
+
+## Formação Acadêmica
+- **Ciência da Computação** – UNIP (2º semestre – em andamento)
+- **Ensino Médio Integrado à Informática** – Instituto Federal de Brasília (IFB)
+
+---
+
+## Conhecimentos Técnicos
+Durante minha formação, tive contato com:
+
+### Linguagens e Programação
+- JavaScript
+- Python
+- Programação Orientada a Objetos
+- Programação para Web
+
+### Web & Software
+- Web Design
+- Qualidade de Software
+- Engenharia de Software
+
+### Dados e Estruturas
+- Banco de Dados
+- Estrutura de Dados
+
+### Sistemas e Infraestrutura
+- Redes de Computadores
+- Sistemas Operacionais
+- Segurança da Informação
+
+### Gestão e Negócios
+- Gestão de Projetos
+- Empreendedorismo
+- Introdução à Computação
+
+---
+
+## Objetivo
+Atualmente, busco:
+- Consolidar minha base em **programação e ciência da computação**
+- Desenvolver **projetos práticos**
+- Conquistar minha **primeira oportunidade na área de tecnologia** (estágio ou júnior)
+
+---
+
+## Contato
+- GitHub: [github.com/Ryan-Alv](https://github.com/Ryan-Alv)
+- GitHub: [github.com/Ryan-Alv](https://github.com/Ryan-Alv)
+
