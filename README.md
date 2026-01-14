@@ -1,21 +1,21 @@
-<h1 align="center">👋 Olá, eu sou o Ryan Alves</h1>
+<h1 align="center"> Olá, eu sou o Ryan Alves</h1>
 
 <p align="center">
-🎓 Ciência da Computação • UNIP – Brasília <br>
-💻 Técnico em Informática • Instituto Federal de Brasília (IFB) <br>
-📍 Brasília - DF • 20 anos
+ Ciência da Computação • UNIP – Brasília <br>
+ Técnico em Informática • Instituto Federal de Brasília (IFB) <br>
+ Brasília - DF • 20 anos
 </p>
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 Sou estudante de **Ciência da Computação**, com formação técnica em **Informática** pelo IFB.  
 Tenho **facilidade em aprender**, boa comunicação e sou extremamente determinado.  
 Gosto de entender como as coisas funcionam por trás e estou sempre buscando evoluir como desenvolvedor.
 
 ---
 
-## 🧠 Tecnologias & Conhecimentos
+##  Tecnologias & Conhecimentos
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github" />
@@ -30,12 +30,12 @@ Gosto de entender como as coisas funcionam por trás e estou sempre buscando evo
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 Busco oportunidades de **estágio ou posição júnior** na área de tecnologia, onde eu possa aplicar meus conhecimentos, aprender na prática e evoluir profissionalmente.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ryan-Alv&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
@@ -46,7 +46,7 @@ Busco oportunidades de **estágio ou posição júnior** na área de tecnologia,
 
 ---
 
-## 📫 Contato
+##  Contato
 <p align="center">
   <a href="https://www.linkedin.com/in/ryan-alves-dev-ti/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
