@@ -18,7 +18,7 @@ Gosto de entender como as coisas funcionam por trás e estou sempre buscando evo
 ##  Tecnologias & Conhecimentos
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,git,github" />
 </p>
 
 - **Programação:** Python, JavaScript, Programação Orientada a Objetos, Estrutura de Dados  
