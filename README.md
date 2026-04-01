@@ -1,7 +1,7 @@
 <h1 align="center"> Olá, eu sou o Ryan Alves</h1>
 
 <p align="center">
- Ciência da Computação • UNIP – Brasília <br>
+ Ciência da Computação • UDF – Brasília <br>
  Técnico em Informática • Instituto Federal de Brasília (IFB) <br>
  Brasília - DF • 20 anos
 </p>
