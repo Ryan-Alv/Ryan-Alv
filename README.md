@@ -31,7 +31,7 @@ Gosto de entender como as coisas funcionam por trás e estou sempre buscando evo
 ---
 
 ##  Objetivo
-Busco oportunidades de **estágio ou posição júnior** na área de tecnologia, onde eu possa aplicar meus conhecimentos, aprender na prática e evoluir profissionalmente.
+Busco oportunidades de **posição júnior** na área de tecnologia, onde eu possa aplicar meus conhecimentos, aprender na prática e evoluir profissionalmente.
 
 ---
 
